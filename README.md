@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @mihir-chhatre
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hey there! I'm Mihir :) &nbsp;&nbsp;<img alt="pikachu running" src="./pikachu.gif" width='60' align="center"/>
 
-<!---
-mihir-chhatre/mihir-chhatre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-Hey there! I am Mihir :)
+- 🌱 I’m currently diving deep into Algorithms
+- 💬 Ask me about Python
+- 📫 How to reach me: <a href="mailto:mihir.chhatre@gmail.com">mihir.chhatre@gmail.com</a>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<a href="https://github.com/saintlyzero">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saintlyzero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saintlyzero&layout=compact&langs_count=8&theme=dracula"/>
+
+ </a>
+
+</p>
