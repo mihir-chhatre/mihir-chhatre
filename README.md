@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mihir Chhatre</h1>
-<h3 align="center">A Data Engineering who loves to build LEGOs, gourmet meals & pipelines.</h3>
+<h3 align="center">A Data Engineering who loves to build LEGOs, Gourmet Dishes & Pipelines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihir-chhatre&label=Profile%20views&color=0e75b6&style=flat" alt="mihir-chhatre" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kafka**
 
-- 💬 Ask me about **data engineering concepts, SQL**
+- 💬 Ask me about **Python, Data Engineering, SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
