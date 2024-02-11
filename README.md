@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihir-chhatre&label=Profile%20views&color=0e75b6&style=flat" alt="mihir-chhatre" /> </p>
 
-- 🧑‍🎓 I’m currently a graduate student at <bgcolor="purple">**New York University**</bgcolor>
+- 🧑‍🎓 I’m currently a graduate student at <span style="color: purple">New York University</span>
 
 - 🌱 I’m currently learning **DEZoomcamp2024**
 
