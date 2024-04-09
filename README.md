@@ -9,7 +9,6 @@
 - 📝 I upload videos to [https://www.youtube.com/@queryosity](https://www.youtube.com/@queryosity)
 - 💬 Ask me about **Data Engineering, SQL**
 - 📫 How to reach me **mc9164@nyu.edu**
-- 📄 Resume: [https://drive.google.com/file/d/1yPlyhlGbX3lTjgUWrhevCadqzTcmvHFz/view?usp=sharing)
 
 <br>
 
